@@ -1,0 +1,7 @@
+yfinance
+matplotlib
+scipy
+math
+random
+tkinter
+numpy
