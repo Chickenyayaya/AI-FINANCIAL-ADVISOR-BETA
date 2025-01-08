@@ -1,6 +1,6 @@
 yfinance
 matplotlib
-scipy
+scv
 math
 random
 tkinter
